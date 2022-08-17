@@ -1,0 +1,7 @@
+In order to run the following code you need to follow the require instruction
+
+1) get the data for model - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+2) run the ipynb file 
+3) store the end file and provide path in app.py file 
+4) install streamlit 
+5) run streamlit run app.py
